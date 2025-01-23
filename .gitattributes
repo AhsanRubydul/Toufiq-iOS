@@ -1,0 +1,22 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+*.swift text
+*.xcodeproj/* text
+*.xcworkspace/* text
+
+
+# Storyboards and XIBs
+*.storyboard text
+*.xib text
+
+
+# Property list files
+*.plist text
+
+# Core Data files
+*.xcdatamodeld text
+
+
+# Font files
+*.ttf binary
+*.otf binary

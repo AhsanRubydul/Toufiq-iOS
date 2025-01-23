@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ramadan_end_date</key>
+	<string>1970-01-01</string>
+	<key>ramadan_start_date</key>
+	<string>1970-01-01</string>
+	<key>show_ramadan_gui</key>
+	<false/>
+</dict>
+</plist>
